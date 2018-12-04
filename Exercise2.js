@@ -30,7 +30,7 @@ console.log(lvl2exercise4(10,2));
 
 function lvl2exercise5(num1) {
 	// Add 2 to num1 using += and return it
-    var num1 += 2
+    num1 += 2
     return num1
 }
 
